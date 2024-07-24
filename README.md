@@ -5,11 +5,10 @@
 - 🔭 Hoje trabalho com Backend
 - 🌱 Atualmente estudando Devops e Data Science
 - 📫 Contate-me no e-mail: lando.wat@gmail.com
-- 😄 Pronomes: ele/dele
 - ⚡ Fato engraçado: Quebrei meu nariz dando um mortal
 
 <div>
   <a href="https://github.com/landowat">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=landowat&show_icons=true*theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top_langs/?username=landowat&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landowat&layout=compact&langs_count=16&theme=dracula"/>
 </div>
