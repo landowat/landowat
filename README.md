@@ -1,4 +1,4 @@
-## Olá Pessoal, sou o Orlando Watanabe 
+## Olá Pessoal, sou o Orlando Watanabe!
 
 
 - 🔭 Hoje trabalho com Backend
