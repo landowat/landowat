@@ -10,7 +10,7 @@
 
 <div>
   <a href="https://github.com/landowat">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=landowat&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=landowat&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landowat&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
