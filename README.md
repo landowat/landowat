@@ -6,7 +6,7 @@
 - 📫 Contate-me no e-mail: lando.wat@gmail.com
 - ⚡ Fato engraçado: Quebrei meu nariz dando um mortal
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landowat)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <a href="https://github.com/landowat">
