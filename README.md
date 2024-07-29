@@ -35,3 +35,5 @@
   <a href="https://www.facebook.com/orlando.watanabejunior" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="mailto:lando.wat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/landowat/landowat/blob/output/github-contribution-grid-snake.svg)
