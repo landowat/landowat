@@ -6,8 +6,6 @@
 - 📫 Contate-me no e-mail: lando.wat@gmail.com
 - ⚡ Fato engraçado: Quebrei meu nariz dando um mortal
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=landowat&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
   <a href="https://github.com/landowat">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=landowat&show_icons=true&theme=dracula&count_private=true"/>
